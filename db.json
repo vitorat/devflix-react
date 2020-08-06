@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "IoT",
+      "color": "#6BD1FF",
+      "extra_link": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.youtube.com/results?search_query=iot"
+      }
+    }
+   ],
+  "videos": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "title": "What is IoT",
+      "url": "https://www.youtube.com/watch?v=LlhmzVL5bm8"
+    }
+  ]
+}

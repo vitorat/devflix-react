@@ -1,0 +1,189 @@
+{
+  "categories": [
+    {
+      "title": "IoT",
+      "link": "https://www.youtube.com/results?search_query=iot",
+      "color": "#6BD1FF",
+      "extra_link": {
+        "text": "Videos about IoT",
+        "url": "https://www.youtube.com/results?search_query=iot"
+      },
+      "videos": [
+        {
+          "title": "What is IoT?",
+          "url": "https://www.youtube.com/watch?v=LlhmzVL5bm8"
+        },
+        {
+          "title": "Home Automation System",
+          "url": "https://www.youtube.com/watch?v=rlWVYBR-W54"
+        },
+        {
+          "title": "Car Parking System",
+          "url": "https://www.youtube.com/watch?v=DIVAkjSbEoQ"
+        },
+        {
+          "title": "Smartwatch",
+          "url": "https://www.youtube.com/watch?v=BjgFC0M3iMk"
+        },
+        {
+          "title": "Door Lock",
+          "url": "https://www.youtube.com/watch?v=vYCLJtFv9lI"
+        },
+        {
+          "title": "Smart Agriculture",
+          "url": "https://www.youtube.com/watch?v=Rr3KZ5QU3Xs"
+        }        
+      ]
+    },
+    {
+      "title": "Artificial Intelligence",
+      "color": "#00C86F",
+      "extra_link": {
+        "text": "Videos about AI",
+        "url": "https://www.youtube.com/results?search_query=artificial+intelligence"
+      },
+      "videos": [
+        {
+          "title": "What is AI?",
+          "url": "https://www.youtube.com/watch?v=2ePf9rue1Ao"
+        },
+        {
+          "title": "AI and algorithms",
+          "url": "https://www.youtube.com/watch?v=s0dMTAQM4cw"
+        },
+        {
+          "title": "Elon Musk on AI",
+          "url": "https://www.youtube.com/watch?v=H15uuDMqDK0"
+        },
+        {
+          "title": "AI and the future",
+          "url": "https://www.youtube.com/watch?v=wTbrk0suwbg"
+        }, 
+        {
+          "title": "AI in classrooms (China)",
+          "url": "https://www.youtube.com/watch?v=JMLsHI8aV0g"
+        }
+      ]
+    },
+    {
+      "title": "Travels",
+      "color": "orange",
+      "extra_link": {
+        "text": "Videos about travels",
+        "url": "https://www.youtube.com/results?search_query=travels"
+      },
+      "videos": [
+        {
+          "title": "United States",
+          "url": "https://www.youtube.com/watch?v=b7FNvq11CEw"
+        },
+        {
+          "title": "Argentina",
+          "url": "https://www.youtube.com/watch?v=LiKW2ruKXfk"
+        },
+        {
+          "title": "Italy",
+          "url": "https://www.youtube.com/watch?v=FlRwssZYRM0"
+        },
+        {
+          "title": "France",
+          "url": "https://www.youtube.com/watch?v=zTjnQ0XlAc4"
+        },
+        {
+          "title": "Portugal",
+          "url": "https://www.youtube.com/watch?v=Z8XP7UjzvnU"
+        }
+      ]
+    },
+    {
+      "title": "Movies",
+      "color": "#9cd33b",
+      "extra_link": {
+        "text": "Videos about movies",
+        "url": "https://www.youtube.com/results?search_query=movies"
+      },
+      "videos": [
+        {
+          "title": "Avengers Endgame",
+          "url": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+        },
+        {
+          "title": "Spiral",
+          "url": "https://www.youtube.com/watch?v=rgNlWypWmtw"
+        },
+        {
+          "title": "It Chapter 2",
+          "url": "https://www.youtube.com/watch?v=xhJ5P7Up3jA"
+        },
+        {
+          "title": "Truth or dare",
+          "url": "https://www.youtube.com/watch?v=Cgnk3MLw9TM"
+        },
+        {
+          "title": "Avengers Infinity War",
+          "url": "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
+        }
+      ]
+    },
+    {
+      "title": "Games",
+      "color": "red",
+      "extra_link": {
+        "text": "Videos about games",
+        "url": "https://www.youtube.com/results?search_query=games"
+      },
+      "videos": [
+        {
+          "title": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "title": "Rainbow Six Siege",
+          "url": "https://www.youtube.com/watch?v=KlbLLRdg9u8"
+        },
+        {
+          "title": "Until Dawn",
+          "url": "https://www.youtube.com/watch?v=3NcF7EOnjow"
+        },
+        {
+          "title": "Call of Duty Warzone",
+          "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+        },
+        {
+          "title": "Assassins Creed Brotherhood",
+          "url": "https://www.youtube.com/watch?v=zzNs4-kRLaE"
+        }
+      ]
+    },
+    {
+      "title": "Series",
+      "color": "#6b5be2",
+      "extra_link": {
+        "text": "Videos about series",
+        "url": "https://www.youtube.com/results?search_query=series"
+      },
+      "videos": [
+        {
+          "title": "Prison Break",
+          "url": "https://www.youtube.com/watch?v=AL9zLctDJaU"
+        },
+        {
+          "title": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=HhesaQXLuRY"
+        },
+        {
+          "title": "Vikings",
+          "url": "https://www.youtube.com/watch?v=Y7d0A5re7-0"
+        },
+        {
+          "title": "Blindspot",
+          "url": "https://www.youtube.com/watch?v=RqZkit-aCTo"
+        },
+        {
+          "title": "Stranger Things",
+          "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+        }
+      ]
+    }
+  ]
+}

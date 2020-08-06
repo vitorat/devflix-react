@@ -1,0 +1,18 @@
+.buttomRegistration {
+    height: 30px;
+    float: right;
+    background: #53585D;
+    color: #F5F5F5;
+    border-radius: 3px;
+    border: none;
+}
+
+#buttomCategory {
+    margin-bottom: 40px;
+}
+
+.linkChange {
+    float: left;
+    margin-right: 2%;
+}
+
