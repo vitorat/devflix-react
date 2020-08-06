@@ -1,7 +1,7 @@
 # Devflix
 
 
-<p align="center">
+<p>
   <img alt="Project Logo" width="150px" src="./src/assets/img/Logo-footer.png" />
 </p>
 
@@ -14,7 +14,7 @@ After download the project, access it via your terminal and run the commands:
 
 ```sh
 npm install
-npm start
+npm run dev
 ```
 
 
