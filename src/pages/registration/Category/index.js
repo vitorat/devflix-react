@@ -89,7 +89,7 @@ function CategoryRegistration() {
         />
         {}
 
-        <button type="submit" className="buttomRegistration" id="buttomCategory">
+        <button type="submit" className="buttomRegistration">
           Register
         </button>
       </form>

@@ -9,6 +9,7 @@ function VideoRegistration() {
   const InitialValues = {
     name: '',
     url: '',
+    category: '',
   };
   const [videos, setVideos] = useState([]);
   const [values, setValues] = useState(InitialValues);
@@ -78,6 +79,14 @@ function VideoRegistration() {
           value={values.url}
           onChange={handleChange}
         />
+
+        <FormField
+          label="Category"
+          type="text"
+          name="category"
+          value={values.category}
+          onChange={handleChange}
+        />  
         {}
 
         {}
