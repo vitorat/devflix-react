@@ -18,3 +18,5 @@ npm run dev
 ```
 
 
+## See the project on Vercel
+https://devflix-react-seven.vercel.app/
