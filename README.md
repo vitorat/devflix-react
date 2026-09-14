@@ -5,18 +5,17 @@
   <img alt="Project Logo" width="150px" src="./src/assets/img/Logo-footer.png" />
 </p>
 
-> Project done during a study marathon - React
+> React project developed as part of a front-end development study program.
 
+## Running the project locally
 
-## How run the project?
+After cloning the repository, navigate to the project directory and run:
 
-After download the project, access it via your terminal and run the commands:
-
-```sh
 npm install
 npm run dev
-```
 
+## Live Demo
 
-## See the project on Vercel
+The original version of the project is available on Vercel:
+
 https://devflix-react-seven.vercel.app/
