@@ -11,7 +11,7 @@
 
 After cloning the repository, navigate to the project directory and run:
 
-npm install
+npm install      
 npm run dev
 
 ## Live Demo
