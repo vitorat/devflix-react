@@ -156,10 +156,10 @@
       ]
     },
     {
-      "title": "Series",
+      "title": "TV Shows",
       "color": "#6b5be2",
       "extra_link": {
-        "text": "Videos about series",
+        "text": "Videos about TV Shows",
         "url": "https://www.youtube.com/results?search_query=series"
       },
       "videos": [
